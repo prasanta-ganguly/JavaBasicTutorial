@@ -13,7 +13,6 @@ public class ForLoop {
 			
 		}
 		System.out.println("Sum of the first 100 numbers is "+sum);
-		System.out.println("Test");
 
 	}
 
